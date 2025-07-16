@@ -1,4 +1,4 @@
-# Project Name
+# Terraform Azure VM and Storage Setup
 
 ## Steps to Install Dependencies
 Explain what tools and dependencies your project needs and how to install them.  
